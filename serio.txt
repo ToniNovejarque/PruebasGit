@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Aprovar es facil
 
 Y este es el main :D
 
+||||||| 34e0a0a
+Aprovar es facil
+=======
+facil
+>>>>>>> aguacate
